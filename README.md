@@ -23,9 +23,11 @@ Passionate about coding, problem-solving, and always eager to learn something ne
 🚀 Technologies Used
 
 Frontend: HTML, CSS, JavaScript
+
 🌐 Live Website
 
 https://pragya1403.github.io/Wipro/
+
 📬 Contact Me
 
 Feel free to connect with me:
