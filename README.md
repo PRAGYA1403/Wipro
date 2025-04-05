@@ -1,4 +1,4 @@
-🌐 Srestha Pragya Shrivastava's Portfolio
+# Srestha Pragya Shrivastava's Portfolio
 Welcome to the GitHub repository for my personal portfolio website!
 This is a digital space where I showcase my projects, skills, and journey as a budding Computer Science Engineer 🚀
 
